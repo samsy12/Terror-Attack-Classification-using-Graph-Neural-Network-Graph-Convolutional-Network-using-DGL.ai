@@ -1,0 +1,8 @@
+This directory contains a subset of the data containing terrorism related information collected by the MIND Lab at UMD (http://www.mindswap.org/).
+
+Below we give some more information about the files in this directory:
+* nodes.csv: Contains the unique id (URL) associated with each terrorist attack entity.
+* feat.csv: Contains the  0-1 vector indicating the attributes that are absent and the attributes that are present.
+* label.csv: Contains the labels that we want to assign to each terrorist attack entity.
+* labels.csv: Contains the list of unique labels that we want to assign to each terrorist attack entity.
+* edges.csv: Each line contains two ids of terrorist attacks. This file defines the edges connecting co-located terrorist attacks.
