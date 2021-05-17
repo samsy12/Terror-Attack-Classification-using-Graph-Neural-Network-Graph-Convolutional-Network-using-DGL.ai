@@ -1,7 +1,7 @@
 # Terror-Attack-Classification-using-Graph-Neural-Network-Graph-Convolutional-Network-using-DGL.ai
 ## Summary
 Used Terror Attack dataset from https://linqs-data.soe.ucsc.edu/public/lbc/TerroristRel.tgz in node classification using Graph Convolutional Network.
-The project is implemented using Deep Graph Library (DGL.ai) using PyTorch backend.
+The project is implemented using Deep Graph Library (DGL.ai) with PyTorch backend.
 All necessary installations are included in the notebook itself.
 The notebook can be run as it is in Google Colab.
 I have separated the original data from the source into seperate CSV files for convenience.
